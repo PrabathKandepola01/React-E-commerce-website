@@ -1,0 +1,16 @@
+.Lebel{
+    align-items: center;
+    justify-content: center;
+    height: 60vh; /* This ensures the container takes the full height of the viewport */
+    padding-left: 53px;
+}
+.Lebel2{
+    height: 350px;
+    width: 200vh;
+    padding: 50px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-left: 180px;
+    padding: 10px; 
+}

@@ -1,0 +1,6 @@
+.popular-item{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 190vh;
+}
